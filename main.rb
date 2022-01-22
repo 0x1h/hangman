@@ -1,4 +1,4 @@
-$gameWords = ["forward", "image", "impostor", "fortnite", "half-life", "Gordon Freeman", "confront"]
+$gameWords = ["forward", "image", "impostor", "kesha", "half-life", "Gordon Freeman", "confront"]
 $current = ""
 i = 0
 $lives = 5
